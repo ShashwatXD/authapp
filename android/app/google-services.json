@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382902112873",
+    "project_id": "autapplearn",
+    "storage_bucket": "autapplearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382902112873:android:87084fa8ad598d377b48f8",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgl30tqoFAT10N4cqfK2f5CN4kL5Fo1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382902112873:android:7371ea5d7555300d7b48f8",
+        "android_client_info": {
+          "package_name": "com.example.authappcheat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgl30tqoFAT10N4cqfK2f5CN4kL5Fo1yE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
